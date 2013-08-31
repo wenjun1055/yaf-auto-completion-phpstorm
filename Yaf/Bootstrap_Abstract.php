@@ -2,7 +2,7 @@
 /**
  * @Author: WenJun
  * @Date:   13-8-31 下午8:08
- * @Email:  wenjun5@staff.sina.com.cn
+ * @Email:  wenjun1055@gmail.com
  * @File:   Bootstrap_Abstract.php
  * @Desc:   ...
  */
