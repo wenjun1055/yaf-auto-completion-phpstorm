@@ -62,8 +62,8 @@ final class Application
     }
 
     /**
-     * @param Yaf_Bootstrap_Abstract $bootstrap
-     * @return Yaf_Application
+     * @param Yaf\Bootstrap_Abstract $bootstrap
+     * @return Application
      */
     public function bootstrap(Yaf_Bootstrap_Abstract $bootstrap = null)
     {
@@ -84,7 +84,7 @@ final class Application
     }
 
     /**
-     * @return Yaf_Dispatcher
+     * @return Dispatcher
      */
     public function getDispatcher()
     {

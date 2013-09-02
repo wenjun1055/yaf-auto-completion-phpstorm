@@ -179,8 +179,8 @@ final class Dispatcher
     }
 
     /**
-     * @param Yaf_Request_Abstract $request
-     * @return Yaf_Response_Abstract
+     * @param Request_Abstract $request
+     * @return Response_Abstract
      */
     public function dispatch(Yaf_Request_Abstract $request)
     {
