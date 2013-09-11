@@ -55,7 +55,7 @@ final class Loader
     /**
      * @param string $local_library_path
      * @param string $global_library_path
-     * @return Yaf_Loader
+     * @return Yaf\Loader
      */
     public static function getInstance($local_library_path = null, $global_library_path = null)
     {

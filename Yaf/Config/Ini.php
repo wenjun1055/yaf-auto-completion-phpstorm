@@ -22,6 +22,7 @@ final class Ini extends Config_Abstract implements Iterator, Traversable, ArrayA
     /**
      * @param string $config_file
      * @param string $section
+     * @return Yaf\Config\Ini
      */
     public function __construct($config_file, $section = null)
     {
